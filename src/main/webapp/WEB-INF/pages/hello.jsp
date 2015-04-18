@@ -1,4 +1,7 @@
 <html>
+<head>
+<meta property="qc:admins" content="2146263201610167216375" />
+</head>
 <body>
 	<h1>${message}</h1>
 	<h2>${message}</h2>
